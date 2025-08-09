@@ -1,0 +1,12 @@
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\api\ApiKeyAuthFilter.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\api\GlobalExceptionHandler.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\api\PaymentController.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\config\OpenApiConfig.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\config\WebConfig.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\domain\Payment.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\domain\PaymentStatus.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\dto\PaymentRequests.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\dto\PaymentResponse.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\PaymentsApplication.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\repository\PaymentRepository.java
+C:\Users\yuri\Downloads\testetheus\src\main\java\com\example\payments\service\PaymentService.java
